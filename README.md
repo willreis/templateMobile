@@ -61,8 +61,8 @@ Este projeto já vem com as dependências instaladas e pré-configuradas:
 ### 1️⃣ Clone o projeto
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
-cd seu-repositorio
+git clone https://github.com/willreis/templateMobile.git
+cd templateMobile
 ```
 
 ### 2️⃣ Instale as dependências
